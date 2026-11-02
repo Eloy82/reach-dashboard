@@ -1,0 +1,2 @@
+# Requires Python >= 3.12 (cookidoo-api constraint)
+cookidoo-api==0.17.2
